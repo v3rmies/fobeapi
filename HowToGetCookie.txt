@@ -1,4 +1,4 @@
-Firstly, go on idk16.xyz and make sure you are logged into the website.
+Firstly, go to https://www.idk16.xyz/home and make sure you are logged into the website.
 Open inspect element and go to the network tab.
 Once you are in the network tab, click on info. https://i.imgur.com/38YP9dI.png
 Once you clicked info, go to headers and scroll to request header until you see cookie.
